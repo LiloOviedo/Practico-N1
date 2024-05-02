@@ -35,6 +35,14 @@ a:hover {
     border-color: black;
 }
 
+/*Contacto*/
+#contacto img{
+
+    width: 10px; 
+    height: 10px;
+}
+
+
 /*Experiencia*/
 
 #Experiencia h1{
