@@ -12,4 +12,13 @@ a:hover {
     color: red;
     }
 
-        
+/*Informacion personal*/
+
+#InformacionPersonal h1{
+    font-style: oblique;
+    color: blue;
+} 
+
+#InformacionPersonal p{
+    font-style: italic;
+}
