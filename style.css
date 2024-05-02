@@ -22,3 +22,9 @@ a:hover {
 #InformacionPersonal p{
     font-style: italic;
 }
+
+body{
+
+   display: flex;
+
+}
