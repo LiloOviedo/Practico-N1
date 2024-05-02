@@ -1,5 +1,7 @@
 /*Body*/
 body{
+
+    display: flex;
     background-color: blanchedalmond;
 }
 
@@ -16,18 +18,19 @@ a:hover {
 
 #InformacionPersonal h1{
     font-style: oblique;
+    color: black;
+} 
+#InformacionPersonal h2{
+    border-bottom: 1px solid black;
+    border-top: 1px solid black;
+    font-style: oblique;
     color: blue;
 } 
-
 #InformacionPersonal p{
     font-style: italic;
 }
 
-body{
 
-   display: flex;
-
-}
 
 #InformacionPersonal img{
     border-style: solid;
