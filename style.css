@@ -30,9 +30,16 @@ a:hover {
     font-style: italic;
 }
 
-
-
 #InformacionPersonal img{
     border-style: solid;
     border-color: black;
+}
+
+/*Experiencia*/
+
+#Experiencia h1{
+    color: red;
+    font-style: oblique;
+    border-bottom: 1px solid black;
+    border-top: 1px solid black;
 }
