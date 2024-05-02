@@ -1,3 +1,15 @@
+/*Body*/
 body{
     background-color: blanchedalmond;
 }
+
+/*Links*/
+a:visited {
+    color: black;
+    }
+
+a:hover {
+    color: red;
+    }
+
+        
