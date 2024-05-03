@@ -1,3 +1,12 @@
+/*Predeterminado*/
+
+*{
+    box-sizing: border-box;
+    margin: 2px;
+    padding: 2px;
+}
+
+
 /*Body*/
 body{
     display: flex;
@@ -23,7 +32,6 @@ a:hover {
 #Datos img{
     position: relative;
     left: 50px;
-    bottom: 20px;
     border: solid black ;
 }
 
@@ -59,9 +67,23 @@ a:hover {
 
 /*Experiencia*/
 
+
+#Experiencia{
+
+    position: relative;
+    left: 50px;
+}
+    
+
 #Experiencia h1{
     color: red;
     font-style: oblique;
     border-bottom: 1px solid black;
     border-top: 1px solid black;
+}
+
+#Experiencia h2{
+
+    color:blueviolet;
+    font-style: oblique;
 }
