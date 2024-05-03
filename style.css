@@ -14,22 +14,21 @@ a:hover {
     }
 
 /*Datos*/
-
+#Datos h1{
+    position: relative;
+    left: 70px;
+    font-style: oblique;
+    color: black;
+}
 #Datos img{
-    
+    position: relative;
+    left: 50px;
+    bottom: 20px;
     border: solid black ;
 }
 
-#Datos {
-    position: relative;
-    left: 50px;
-}
-
 /*Informacion personal*/
-#InformacionPersonal h1{
-    font-style: oblique;
-    color: black;
-} 
+
 #InformacionPersonal h2{
     border-bottom: 1px solid black;
     border-top: 1px solid black;
@@ -42,6 +41,15 @@ a:hover {
 
 
 /*Contacto*/
+
+#contacto h2{
+
+    border-bottom: 1px solid black;
+    border-top: 1px solid black;
+    font-style: oblique;
+    color: blue;
+}
+
 #contacto img{
 
     width: 20px; 
